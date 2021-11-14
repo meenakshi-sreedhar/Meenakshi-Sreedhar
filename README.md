@@ -2,9 +2,7 @@
 
 ## I'm Meenakshi Sreedhar 😊
 
-### A 3rd year student pursuing Bachelors in Computer Science with specialization in Cyber Security & Forensic from UPES, Dehradun.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/meenakshi-sreedhar)  
+### A 3rd year student pursuing Bachelors in Computer Science with specialization in Cyber Security & Forensic from UPES, Dehradun.  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ttg8gh502iwny9crne887cmvw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
