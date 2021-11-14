@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshi-sreedhar&layout=compact&theme=highcontrast)](https://github.com/meenakshi-sreedhar/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meenakshi-sreedhar&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meenakshi-sreedhar&hide_border=true&date_format=j%20M%5B%20Y%5D&theme=highcontrast)](https://git.io/streak-stats)
