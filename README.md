@@ -1,10 +1,10 @@
-<p align="center">
+<h1 align="center">
   
 # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  </p> 
+  </h1> 
  <p align="center"> 
-## I'm Meenakshi Sreedhar 😊
+ I'm Meenakshi Sreedhar 😊
  </p> 
 ### A 3rd year student pursuing Bachelors in Computer Science with specialization in Cyber Security & Forensic from UPES, Dehradun.  
 
