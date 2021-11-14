@@ -4,3 +4,4 @@
 ![Meenakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=meenakshi-sreedhar&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshi-sreedhar&layout=compact&theme=highcontrast)](https://github.com/meenakshi-sreedhar/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meenakshi-sreedhar&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
