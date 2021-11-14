@@ -1,6 +1,6 @@
-<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"
-height="45"
-width="45" />, It's Meenakshi Sreedhar
+<h1 align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"
+height="35"
+width="35" />, It's Meenakshi Sreedhar
 </h1> 
 <h5 align="center">
 A 3rd year student pursuing Bachelors in Computer Science with specialization in Cyber Security & Forensic from UPES, Dehradun.  
