@@ -1,13 +1,10 @@
-<h1 align="center">
-  
-# Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-  </h1> 
- <p align="center"> 
- I'm Meenakshi Sreedhar 😊
- </p> 
-### A 3rd year student pursuing Bachelors in Computer Science with specialization in Cyber Security & Forensic from UPES, Dehradun.  
-
+<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+height="45"
+width="45" />, It's Meenakshi Sreedhar</h1>
+</h1> 
+<h5 align="center">
+A 3rd year student pursuing Bachelors in Computer Science with specialization in Cyber Security & Forensic from UPES, Dehradun.  
+/h5>
 ![Meenakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=meenakshi-sreedhar&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meenakshi-sreedhar&layout=compact&theme=highcontrast)](https://github.com/meenakshi-sreedhar/github-readme-stats)
