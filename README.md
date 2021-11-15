@@ -8,7 +8,6 @@ A 3rd year student pursuing Bachelors in Computer Science with specialization in
 <p>
 <a align="left" href="https://github.com/meenakshi-sreedhar">
 <img alt= "stats card" height="300px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshi-sreedhar&theme=midnight-purple">
- </a>
-</p>
+ </a> </p>
 <img height="300px" width="400" src="https://github-readme-stats.vercel.app/api?username=meenakshi&count_private=true&theme=midnight-purple&show_icons=true" />
 
