@@ -11,5 +11,7 @@ A 3rd year student pursuing Bachelors in Computer Science with specialization in
  </a>
 </p>
 <img height="300px" width="400" src="https://github-readme-stats.vercel.app/api?username=meenakshi&count_private=true&theme=midnight-purple&show_icons=true" />
-
+<p align="center">
+  <img src="https://github.com/meenakshi-sreedhar/meenakshi-sreedhar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
