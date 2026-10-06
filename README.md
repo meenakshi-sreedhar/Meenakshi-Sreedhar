@@ -3,10 +3,10 @@ height="35"
 width="35" />, It's Meenakshi Sreedhar
 </h1> 
 <h5 align="center">
-A graduate in Bachelors in Computer Science with specialization in Cyber Security & Forensic from UPES, Dehradun. 
+A graduate in Masters in Cyber Security from DIAT, Pune and Bachelors in Computer Science with specialization in Cyber Security & Forensic from UPES, Dehradun. 
 
         
-Curently pursuing Mtech In Cyber Security from DIAT, Pune.
+Currently pursuing PhD in Cyber Security from IIIT, Kottayam.
 </h5>
 <p>
 <a align="left" href="https://github.com/meenakshi-sreedhar">
